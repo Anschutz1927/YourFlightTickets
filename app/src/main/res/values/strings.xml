@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YourFlightTickets</string>
+    <string name="choose_airport">Выберите аэропорт...</string>
+    <string name="airport_mow">MOW</string>
+    <string name="airport_sip">SIP</string>
+    <string name="incorrect_values">Incorrect input values!</string>
+    <string name="tickets_search">Поиск билетов...</string>
+    <string name="no_valid_tickets">Нет билетов по датам!</string>
+    <string name="no_tickets">На выбранные даты нет билетов!</string>
+    <string name="date_range_text">Диапазон дат вылета:</string>
+    <string name="choose_first_date">Выберите дату 1</string>
+    <string name="choose_second_date">Выберите дату 2</string>
+    <string name="search_way">Направление поиска:</string>
+    <string name="from">Откуда летите?</string>
+    <string name="to">Куда летите?</string>
+    <string name="search">Поиск!</string>
+    <string name="view_all">Показать все</string>
+    <string name="direct_lowcost">Прямой дешевый</string>
+    <string name="transfer_lowcost">С пересадкой дешевый</string>
+    <string name="direct_fast">Прямой быстрый</string>
+    <string name="transfer_fast">С пересадкой быстрый</string>
+    <string name="best_ticket">Лучший билет</string>
+</resources>

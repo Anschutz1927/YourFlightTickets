@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/sort_group"
+        android:enabled="false"
+        android:menuCategory="container">
+
+        <item
+            android:id="@+id/show_all"
+            android:title="@string/view_all" />
+        <item
+            android:id="@+id/low_price_direct_flight"
+            android:title="@string/direct_lowcost" />
+        <item
+            android:id="@+id/low_price_transfer_flight"
+            android:title="@string/transfer_lowcost" />
+        <item
+            android:id="@+id/fater_direct_flight"
+            android:title="@string/direct_fast" />
+        <item
+            android:id="@+id/faster_transfer_flight"
+            android:title="@string/transfer_fast" />
+
+        <item
+            android:id="@+id/best_ticket"
+            android:title="@string/best_ticket" />
+
+    </group>
+
+</menu>
